@@ -13,11 +13,11 @@
   ],
   "license": "BSD-3-Clause",
   "files": [
-  "lib/*.d.ts",
-  "lib/*.js.map",
-  "lib/*.js",
-  "lib/*.css",
-  "style/*"
+    "lib/*.d.ts",
+    "lib/*.js.map",
+    "lib/*.js",
+    "lib/*.css",
+    "style/*"
   ],
   "sideEffects": true,
   "main": "lib/index.js",
